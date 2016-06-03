@@ -1,8 +1,8 @@
 # docker-pot
 
-docker based honeypot based on ubuntu 16.04 image
+docker based honeypot using ubuntu 16.04 image
 
-[*work in progress.]
+*work in progress.
 
 
 ## basics 
